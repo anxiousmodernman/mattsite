@@ -12,11 +12,11 @@
     font-weight: normal;
     font-style: normal;
     font-family: 'icons';
-    src:url('../fonts/icons.eot');
-    src:url('../fonts/icons.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/icons.woff') format('woff'),
-        url('../fonts/icons.ttf') format('truetype'),
-        url('../fonts/icons.svg#icons') format('svg');
+    src:url('../assets/fonts/icons.eot');
+    src:url('../assets/fonts/icons.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/icons.woff') format('woff'),
+        url('../assets/fonts/icons.ttf') format('truetype'),
+        url('../assets/fonts/icons.svg#icons') format('svg');
 }
 
 .icon-ghost, .icon-feed, .icon-twitter, .icon-google-plus, .icon-facebook {
@@ -145,7 +145,7 @@ ARTICLE {
 HR {
     height: 11px;
     border: none;
-    background: #fff url('../images/hr.png') no-repeat scroll center;
+    background: #fff url('../assets/images/hr.png') no-repeat scroll center;
     color: transparent;
 }
 
