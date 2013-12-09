@@ -27,3 +27,17 @@
   content: "";
   padding: 0;
 }
+
+/*.menu-links {
+    color: black;
+}
+
+.menu-links: hover {
+    text-decoration: underline;
+    -webkit-transition-duration: 0.8s;
+    -moz-transition-duration: 0.8s;
+    -ms-transition-duration: 0.8s;
+    -o-transition-duration: 0.8s;
+    transition-duration: 0.8s;
+}
+*/
